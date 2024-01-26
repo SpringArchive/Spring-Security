@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e46ab5e4-df8e-4fe9-8210-44a45f31fb05" name="Changes" comment="" />
+    <list default="true" id="e46ab5e4-df8e-4fe9-8210-44a45f31fb05" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,9 +80,16 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.SpringsecuritybasicApplication (1)">
     <configuration name="SpringsecuritybasicApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="Section2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.springsecuritybasic.SpringsecuritybasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringsecuritybasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springsecuritybasic" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.springsecuritybasic.SpringsecuritybasicApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,7 +107,7 @@
       <workItem from="1706160038216" duration="5269000" />
       <workItem from="1706181690795" duration="35000" />
       <workItem from="1706244662735" duration="2045000" />
-      <workItem from="1706247549392" duration="1920000" />
+      <workItem from="1706247549392" duration="2236000" />
     </task>
     <servers />
   </component>

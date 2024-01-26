@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springsecuritybasic (1)" />
         <module name="Section2" />
+        <module name="springsecuritybasic" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
