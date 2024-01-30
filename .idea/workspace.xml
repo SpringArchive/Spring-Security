@@ -6,9 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="e46ab5e4-df8e-4fe9-8210-44a45f31fb05" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section2" beforeDir="false" afterPath="$PROJECT_DIR$/Section2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section3/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section3/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +32,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Section2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Section3" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/SpringSecurity/Section2",
+    "last_opened_file_path": "C:/SpringSecurity/Section3/pom.xml",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,17 +86,10 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringsecuritybasicApplication (1)">
-    <configuration name="SpringsecuritybasicApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="Section2" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.springsecuritybasic.SpringsecuritybasicApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringsecuritybasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="springsecuritybasic" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.springsecuritybasic.SpringsecuritybasicApplication" />
+  <component name="RunManager">
+    <configuration name="EazyBankBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Section3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.EazyBankBackendApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,6 +107,8 @@
       <workItem from="1706181690795" duration="35000" />
       <workItem from="1706244662735" duration="2045000" />
       <workItem from="1706247549392" duration="2236000" />
+      <workItem from="1706596230971" duration="1000" />
+      <workItem from="1706596239315" duration="879000" />
     </task>
     <servers />
   </component>

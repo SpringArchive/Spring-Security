@@ -6,19 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springsecuritybasic" />
+        <module name="Section3" />
         <module name="springsecuritybasic (1)" />
         <module name="Section2" />
-        <module name="springsecuritybasic" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Section2" target="17" />
+      <module name="Section3" target="17" />
       <module name="springsecuritybasic" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Section2" options="-parameters" />
+      <module name="Section3" options="-parameters" />
       <module name="springsecuritybasic" options="-parameters" />
     </option>
   </component>
