@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e46ab5e4-df8e-4fe9-8210-44a45f31fb05" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section2" beforeDir="false" afterPath="$PROJECT_DIR$/Section2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section3" beforeDir="false" afterPath="$PROJECT_DIR$/Section3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section3/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section3/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/src/main/resources/application.properties" afterDir="false" />
@@ -33,6 +28,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Section3" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Section3/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -108,7 +107,7 @@
       <workItem from="1706244662735" duration="2045000" />
       <workItem from="1706247549392" duration="2236000" />
       <workItem from="1706596230971" duration="1000" />
-      <workItem from="1706596239315" duration="879000" />
+      <workItem from="1706596239315" duration="1269000" />
     </task>
     <servers />
   </component>
@@ -121,7 +120,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Section2/src/test/java/com/eazybytes/springsecuritybasic/SpringsecuritybasicApplicationTests.java</url>
           <line>9</line>
-          <properties class="com.eazybytes.springsecuritybasic.SpringsecuritybasicApplicationTests" method="contextLoads">
+          <properties class="com.eazybytes.springsecuritybasic.SpringsecuritybasicApplicationTests">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
