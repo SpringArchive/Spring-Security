@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e46ab5e4-df8e-4fe9-8210-44a45f31fb05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section3/src/main/java/com/eazybytes/EazyBankBackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/src/main/java/com/eazybytes/EazyBankBackendApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section3/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section3/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -25,6 +35,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bb5c66f0-af82-4b9b-8995-4d485b253dfd" />
+        <option name="url" value="https://github.com/SpringArchive/Spring-Security.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Section3/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" root0="FORCE_HIGHLIGHTING" />
@@ -41,6 +64,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2bQvIRKrarLbVT8ObZuvRyovIRN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="showLibraryContents" value="true" />
@@ -53,23 +77,32 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/SpringSecurity/Section3/pom.xml",
+    "last_opened_file_path": "C:/SpringSecurity/Section4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "project.structure.proportion": "0.15625",
+    "project.structure.side.proportion": "0.1911935",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "spring.configuration.checksum": "a0ebd627b891b3def419dc3c715686d2",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\SpringSecurity" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\SpringSecurity\springsecuritybasic" />
     </key>
@@ -81,10 +114,44 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="EazyBankBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+  <component name="RunManager" selected="Spring Boot.EazyBankBackendApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Section4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Section4" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EazyBankBackendApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Section2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.EazyBankBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EazyBankBackendApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="Section3" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.EazyBankBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EazyBankBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Section4" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.EazyBankBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringsecuritybasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springsecuritybasic" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.springsecuritybasic.SpringsecuritybasicApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,12 +171,35 @@
       <workItem from="1706247549392" duration="2236000" />
       <workItem from="1706596230971" duration="1000" />
       <workItem from="1706596239315" duration="1269000" />
-      <workItem from="1706597985336" duration="3540000" />
+      <workItem from="1706597985336" duration="3612000" />
+      <workItem from="1706627878081" duration="9000" />
+      <workItem from="1706680586273" duration="1421000" />
+      <workItem from="1706691188014" duration="54000" />
+      <workItem from="1707099033079" duration="7082000" />
+      <workItem from="1707179795010" duration="10000" />
+      <workItem from="1707787169304" duration="344000" />
+      <workItem from="1707897128245" duration="90000" />
+      <workItem from="1708001066194" duration="19000" />
+      <workItem from="1708001513551" duration="351000" />
+      <workItem from="1713510834812" duration="3897000" />
+      <workItem from="1713670328615" duration="994000" />
+      <workItem from="1713687254664" duration="1937000" />
+      <workItem from="1713693625136" duration="94000" />
+      <workItem from="1713693732692" duration="179000" />
+      <workItem from="1713694105151" duration="620000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Section2" />
+      <path value="$PROJECT_DIR$/Section3" />
+      <path value="$PROJECT_DIR$/Section4" />
+      <path value="$PROJECT_DIR$/springsecuritybasic" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
