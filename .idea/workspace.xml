@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e46ab5e4-df8e-4fe9-8210-44a45f31fb05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section3/src/main/java/com/eazybytes/EazyBankBackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/src/main/java/com/eazybytes/EazyBankBackendApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section3/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section3/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Section4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section4/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Section4/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section4/src/main/java/com/eazybytes/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Section4/src/main/java/com/eazybytes/controller/LoginController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,8 +180,23 @@
       <workItem from="1713687254664" duration="1937000" />
       <workItem from="1713693625136" duration="94000" />
       <workItem from="1713693732692" duration="179000" />
-      <workItem from="1713694105151" duration="620000" />
+      <workItem from="1713694105151" duration="2311000" />
     </task>
+    <task id="LOCAL-00001" summary="Section 3">
+      <created>1713694777675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713694777675</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Section 4">
+      <created>1713694905080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713694905080</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +209,9 @@
       <path value="$PROJECT_DIR$/Section4" />
       <path value="$PROJECT_DIR$/springsecuritybasic" />
     </ignored-roots>
+    <MESSAGE value="Section 3" />
+    <MESSAGE value="Section 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

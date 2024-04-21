@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.eazybytes</groupId>
-	<artifactId>Section3</artifactId>
+	<artifactId>Section4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Section3</name>
+	<name>Section4</name>
 	<description>Demo project for Spring Boot and Spring Security</description>
 	<properties>
 		<java.version>17</java.version>
