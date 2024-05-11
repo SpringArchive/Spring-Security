@@ -14,11 +14,11 @@ public class CsrfCookieFilter extends OncePerRequestFilter {
     @Override
     protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain filterChain)
             throws ServletException, IOException {
-        CsrfToken csrfToken = (CsrfToken) request.getAttribute(CsrfToken.class.getName());  // 토큰 가져오기
+        CsrfToken csrfToken = (CsrfToken) request.getAttribute(CsrfToken.class.getName());
         if(null != csrfToken.getHeaderName()){
-            response.setHeader(csrfToken.getHeaderName(), csrfToken.getToken());    // 응답 객체의 헤더에 csrf 토큰 저장
+            response.setHeader(csrfToken.getHeaderName(), csrfToken.getToken());
         }
-        filterChain.doFilter(request, response);    // filterChain 연결
+        filterChain.doFilter(request, response);
     }
 
 }

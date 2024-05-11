@@ -11,7 +11,7 @@ import java.util.Set;
 public class Customer {
 
     @Id
-    @GeneratedValue(strategy= GenerationType.AUTO, generator="native")
+    @GeneratedValue(strategy= GenerationType.AUTO,generator="native")
     @GenericGenerator(name = "native",strategy = "native")
     @Column(name = "customer_id")
     private int id;
@@ -23,7 +23,7 @@ public class Customer {
     @Column(name = "mobile_number")
     private String mobileNumber;
 
-    @JsonProperty(access = JsonProperty.Access.WRITE_ONLY)  // UI 어플리케이션으로 전송하지 않음, 쓰기만 가능
+    @JsonProperty(access = JsonProperty.Access.WRITE_ONLY)
     private String pwd;
 
     private String role;
@@ -31,8 +31,8 @@ public class Customer {
     @Column(name = "create_dt")
     private String createDt;
 
-    @JsonIgnore     // JSON response에 전송하지 않음
-    @OneToMany(mappedBy = "customer", fetch = FetchType.EAGER)
+    @JsonIgnore
+    @OneToMany(mappedBy="customer",fetch=FetchType.EAGER)
     private Set<Authority> authorities;
 
     public int getId() {

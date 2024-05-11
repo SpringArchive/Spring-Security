@@ -3,14 +3,12 @@ package com.eazybytes.model;
 import jakarta.persistence.*;
 import org.hibernate.annotations.GenericGenerator;
 
-import static jakarta.persistence.GenerationType.*;
-
 @Entity
 @Table(name = "authorities")
 public class Authority {
 
     @Id
-    @GeneratedValue(strategy= AUTO,generator="native")
+    @GeneratedValue(strategy= GenerationType.AUTO,generator="native")
     @GenericGenerator(name = "native",strategy = "native")
     private Long id;
 
@@ -43,4 +41,5 @@ public class Authority {
     public void setCustomer(Customer customer) {
         this.customer = customer;
     }
+
 }
